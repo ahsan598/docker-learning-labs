@@ -1,6 +1,5 @@
 # 🏗️ Getting Started with Docker 
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.dockerlabs)
 ![stars](https://img.shields.io/github/stars/collabnix/dockerlabs)
 ![Discord](https://img.shields.io/discord/1020180904129335379)
 ![GitHub contributors](https://img.shields.io/github/contributors/collabnix/dockerlabs)
@@ -13,18 +12,25 @@
 - Over 500+ Highly Interactive Docker Tutorials and Guides
 - Well tested on Docker Desktop  and can be run on Browser (no Infrastructure required)
 
+# 📝 Join our Community
 
-# 🚀 Tested Platform 
-
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- [Play with Docker Platform](https://labs.play-with-docker.com/) 
-
-
-# 📝 Join our Slack Community
-
-- Join 7000+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
+- Join 9000+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
+- Join 2300+ [Discord members](https://discord.gg/QEkCXAXYSe)
 - Fork, Contribute & Share via [DockerLabs GITHUB Repository](https://github.com/collabnix/dockerlabs)
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
+
+# Featured Blog Posts and Articles
+
+- [Docker GenAI Stack on Windows using Docker Desktop](https://collabnix.com/docker-genai-stack-on-windows-using-docker-desktop/)
+- [A First Look at Docker Scout – A Software Supply Chain Security for Developers](https://collabnix.com/a-first-look-at-docker-scout-a-software-supply-chain-security-for-developers/)
+- [Getting Started with GenAI Stack powered with Docker, LangChain, Neo4j and Ollama](https://collabnix.com/getting-started-with-genai-stack-powered-with-docker-langchain-neo4j-and-ollama/)
+- [Docker Init for Go Developers](https://collabnix.com/docker-init-for-go-developers/)
+- [What is Docker Compose Include and What problem does it solve?](https://collabnix.com/what-is-docker-compose-include-and-what-problem-does-it-solve/)
+- [Leveraging Compose Profiles for Dev, Prod, Test, and Staging Environments](https://collabnix.com/leveraging-compose-profiles-for-dev-prod-test-and-staging-environments/)
+- [What is Docker Compose Watch and what problem does it solve?](https://collabnix.com/what-is-docker-compose-watch-and-what-problem-does-it-solve/)
+- [What is Resource Saver Mode in Docker Desktop and what problem does it solve?](https://collabnix.com/what-is-resource-saver-mode-in-docker-desktop-and-what-problem-does-it-solve/)
+- [🐳 Boost Your Docker Workflow: Introducing Docker Init for Python Developers 🚀](https://collabnix.com/%f0%9f%90%b3-boost-your-docker-workflow-introducing-docker-init-for-python-developers-%f0%9f%9a%80/)
+- [How to Integrate Docker Scout with GitHub Actions](https://collabnix.com/how-to-integrate-docker-scout-with-github-actions/)
 
 
 # 📌 Workshop/Labs (Hands-On Practical Labs)
@@ -32,11 +38,52 @@
 
 | Title       | Topics Covered         | Labs |
 |:-------------|:------------------|:------|
-| [Getting Started](http://dockerlabs.collabnix.com/docker/Docker_VIT_Intro/Docker_VIT_Intro.html) | Why, What & How about Docker?(slides) | - | 
+| [Getting Started](http://dockerlabs.collabnix.com/docker/Docker_VIT_Intro/Docker_VIT_Intro.html) | Why, What & How about Docker?(slides) | - |
+| [Docker Core Concepts](https://github.com/collabnix/dockerlabs/tree/master/beginners/README.md) | Concepts of Docker Image, Containers, Multi-container apps | - | 
 | [Docker for Beginner](./workshop/docker/README.md)  | Docker Image, Container, Dockerfile, Volumes, Networking | 40  |
 | [Docker for Intermediate](./intermediate/workshop/README.md) | Docker Compose, Swarm, Advanced Networking | 50 |
 | [Docker for Advanced](./advanced/workshop/README.md) | Docker Security, Content Trust, Image Scanning, Swarm Mode Security | 31 |
 | [Docker Desktop](./workshop/dockerdesktop/README.md) | Docker Dashboard, Dev Environments, Extensions | 5 |
+
+
+
+# Latest Docker Desktop Features and Demos
+
+| Title       | Topics Covered         | Category | Labs |
+|:-------------|:------------------|:------|:------|
+| [Docker Scout](https://github.com/collabnix/docker-scout-community) | Scout CLI, Scout Sample Demo| Security | 2 |
+| [Docker Extensions](https://github.com/collabnix/docker-community-extensions) | Docker Extensions | Development Tools | 1 |
+| [Docker init](https://github.com/dockersamples/docker-init-demos) | Dockerfile, Compose, Python, Go, Rust, Node | Developer Tools | 5|
+| [Docker init for Python](https://github.com/dockersamples/docker-init-demos/tree/main/python) | Dockerfile, Compose, Python | Developer Tools| 1|
+| [Docker init for Go](https://github.com/dockersamples/docker-init-demos/tree/main/go) |Dockerfile, Compose, Go | Developer Tools | 1|
+| [Docker init for Rust](https://github.com/dockersamples/docker-init-demos/tree/main/rust) |Dockerfile, Compose, Rust | Developer Tools | 1|
+| [Docker init for ASP.NET](https://github.com/dockersamples/docker-init-demos/tree/main/dotnet) | Dockerfile, Compose, .NET | Developer Tools | 1|
+| [Docker init for PHP](https://github.com/dockersamples/docker-init-demos/tree/main/php/app) | Dockerfile, Compose, PHP | Developer Tools | 1|
+| [Compose Watch](https://github.com/dockersamples/docker-init-demos/tree/main/python/compose-watch)| Compose, Sync, Rebuild| Developer Tools | 1 |
+| [Compose Include](https://github.com/ajeetraina/compose-include) | Compose, Include | Developer Tools | 1 |
+| [Compose Profile](https://github.com/ajeetraina/compose-demos/blob/main/wordpress/profile/README.md) | Compose, Profile, Staging, Prod | Developer Tools | 1 |
+
+
+## Industry Use cases
+
+| Title       | Topics Covered         | Labs |
+|:-------------|:------------------|:------|
+| [Docker for AI](https://www.docker.com/products/ai-ml-development/) | [Docker for Data Scientist](https://docker.devpost.com/project-gallery) | 1 |
+| [Docker for Leading IDEs](https://www.docker.com/products/ide/) | Developer IDEs | Not Started|
+| [Docker for Financial Service](https://collabnix.com/5-benefits-of-docker-for-the-finance-and-operations/) | - | Not Started|
+| [Docker for Healthcare](https://collabnix.com/5-benefits-of-docker-for-the-healthcare-industry/) | - | Not Started|
+
+## Containerd Blogs & Resources
+
+
+| Title       | Topics Covered         | Labs |
+|:-------------|:------------------|:------|
+| [What is Containerd and what problems does it solve](https://collabnix.com/what-is-containerd-and-what-does-it-solve/)| - | Not Started|
+| [Containerd and Kubernetes](https://collabnix.com/containerd-and-kubernetes-how-are-they-related/) | - | Not Started|
+| [How To Run Containerd On Docker Desktop](https://collabnix.com/how-to-run-containerd-in-docker-desktop/) | - | Not Started|
+| [Getting Started With Containerd 2.0](https://collabnix.com/getting-started-with-containerd-2-0/) | - | Not Started|
+| [Containerd Vs Docker: What’s the difference?](https://collabnix.com/containerd-vs-docker-whats-the-difference/) | - | Not Started|
+
 
 
 ## Docker WorkShop for Beginners 
@@ -351,7 +398,85 @@ We recommend you to visit [Docker Awesome Compose Repository](https://github.com
 | [Introduction to Docker Security](./advanced/workshop/README.md)|
 | [Running Containers as ROOT](./security/Running-Containers-as-ROOT.md) | 
 
+## Docker Scout Resources and Links
 
+This is a curated list of Docker Scout related resources. It is not an official list, but a community effort to help people find the best stuff for Docker Scout in 2023 and beyond. 
+
+
+### [Download Docker Scout Cheatsheet Now!!](https://www.docker.com/resources/scout-cheat-sheet/) ![badge](https://img.shields.io/badge/-new-green) 
+
+
+# Scout Blogs
+
+- [Skout - Docker Scout for Your Kubernetes](https://collabnix.com/docker-scout-for-your-kubernetes-cluster/)
+- [Enhancing Your GitHub Workflow with Docker Scout](https://www.felipecruz.es/enhancing-your-github-workflow-with-docker-scout/)  ![badge](https://img.shields.io/badge/-new-green) 
+- [Achieve Security and Compliance Goals with Policy Guardrails in Docker Scout](https://www.docker.com/blog/achieve-security-and-compliance-goals-with-policy-guardrails-in-docker-scout/)  ![badge](https://img.shields.io/badge/-new-green) 
+- [A First Look at Docker Scout – A Software Supply Chain Security for Developers](https://collabnix.com/a-first-look-at-docker-scout-a-software-supply-chain-security-for-developers/)
+- [Docker Scout vs Scan](https://itnext.io/docker-scout-vs-scan-90ce6d6fd04c)
+- [How to scan container images with Docker Scout](https://www.techrepublic.com/article/how-to-scan-container-images-docker-scout/)
+- [Mastering Docker Scout through Docker Desktop GUI and CLI](https://www.heyvaldemar.com/mastering-docker-scout-through-docker-desktop-gui-and-cli/)
+- [Vulnerability and Dependency Scanning with Docker Scout](https://www.c-sharpcorner.com/article/vulnerability-and-dependency-scanning-with-docker-scout/)
+- [Docker 4.18 Extends Scout, Adds Container File Explorer, Docker Init, and More](https://www.infoq.com/news/2023/04/docker-4-18-released/)
+- [Using Docker Scout to Scan Container Images](https://www.fosslife.org/using-docker-scout-scan-container-images)
+- [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
+- [How to Integrate Docker Scout with GitHub Actions](https://collabnix.com/how-to-integrate-docker-scout-with-github-actions/)
+- [Scan Container Images for Vulnerabilities with Docker Scout](https://thenewstack.io/scan-container-images-for-vulnerabilities-with-docker-scout/)
+- [Docker Scout by Fsegredo](https://link.medium.com/U7exfMopKCb) ![badge](https://img.shields.io/badge/-new-green) 
+- [How to Integrate Docker Scout with GitLab](https://collabnix.com/how-to-integrate-docker-scout-with-gitlab/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Docker Scout Unveils Advanced Features to Bolster Software Supply Chain Integrity](https://opensourcewatch.beehiiv.com/p/docker-scout-unveils-advanced-features-bolster-software-supply-chain-integrity) ![badge](https://img.shields.io/badge/-new-green)
+- [How to integrate Docker Scout with Azure Container Registry](https://hugs4bugs.me/how-to-integrate-docker-scout-with-azure-container-registry/) ![badge](https://img.shields.io/badge/-new-green)
+- [CI pipeline with Docker Scout and SAST scanning for an OWASP-based Python app](https://github.com/nadyinky/devsecops-docker-flow)
+
+
+
+# Scout Tutorials
+
+- [Docker Scout quickstart](https://docs.docker.com/scout/quickstart/)
+- [Docker Scout Advanced image analysis](https://docs.docker.com/scout/advanced-image-analysis/)
+- [Integrate Docker Scout with GitHub Actions](https://docs.docker.com/scout/integrations/ci/gha/)
+- [Integrate Docker Scout with GitLab CI](https://docs.docker.com/scout/integrations/ci/gitlab/)
+- [Integrate Docker Scout with Microsoft Azure DevOps Pipelines](https://docs.docker.com/scout/integrations/ci/azure/)
+- [Integrate Docker Scout with Circle CI](https://docs.docker.com/scout/integrations/ci/circle-ci/)
+- [Integrate Docker Scout with Jenkins](https://docs.docker.com/scout/integrations/ci/jenkins/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Advisory Database sources and matching service](https://docs.docker.com/scout/advisory-db-sources/) ![badge](https://img.shields.io/badge/-new-green)
+- [Docker Scout Integration with SonarQube](https://docs.docker.com/scout/integrations/code-quality/sonarqube/) ![badge](https://img.shields.io/badge/-new-green) 
+
+
+## GitHub Sample projects for Scout
+
+- [Scout Action](https://github.com/docker/scout-action) ![badge](https://img.shields.io/badge/-new-green) 
+- [Scout CLI](https://github.com/docker/scout-cli)
+
+
+## Scout Case Studies
+
+- [How JW Player Secured 300 Repos in an Hour with Docker Scout](https://www.docker.com/blog/how-jw-player-secured-300-repos-in-an-hour-with-docker-scout/) ![badge](https://img.shields.io/badge/-new-green)
+- [Sysdig and Docker Forge Alliance to Accelerate Cloud-Native Security](https://medium.com/@seifeddinerajhi/sysdig-and-docker-forge-alliance-to-accelerate-cloud-native-security-16f6fec74327)
+
+
+# Scout Featured Videos
+
+| Docker Scout: Securing The Complete Software Supply Chain (DockerCon 2023) | Cut Through Vulnerability Noise with Runtime Insights (DockerCon 2023)   |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| [![Docker Scout](https://img.youtube.com/vi/4iJ7yw-Oe4I/sddefault.jpg)](https://www.youtube.com/watch?v=4iJ7yw-Oe4I) | [![Docker Scout](https://img.youtube.com/vi/y9XssbBRIi4/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
+
+| Docker Scout: Live Demo, Insights, and Q&A       | Vulnerability Scanning and Reporting         |
+| ------------------------------------------------ | -------------------------------------------- |
+| [![Docker Scout](https://img.youtube.com/vi/Ibt6o8M2IHw/sddefault.jpg)](https://www.youtube.com/watch?v=Ibt6o8M2IHw) | [![Vulnerability Scanning and Reporting](https://img.youtube.com/vi/2sY7z2yv_5Y/sddefault.jpg)](https://www.youtube.com/watch?v=2sY7z2yv_5Y&t=39s) |
+
+| Find Vulnerabilities Fast! New Docker CLI Command| Adding the docker scout feature to the Docker CLI    |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| [![Docker Scout](https://img.youtube.com/vi/0Wc4-_DownU/sddefault.jpg)](https://www.youtube.com/watch?v=0Wc4-_DownU) | [![Docker Scout](https://img.youtube.com/vi/pb7ydpJq-D8/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
+
+
+| How to scan Container image using Docker Scout | Docker Scout Tutorial: Docker scanning               |
+| ---------------------------------------------- | -------------------------------------------------- |
+| [![Docker Scout](https://img.youtube.com/vi/SlUqxSUvv3o/sddefault.jpg)](https://www.youtube.com/watch?v=SlUqxSUvv3o&t=5s) | [![Docker Scout](https://img.youtube.com/vi/4oVg662aMbc/sddefault.jpg)](https://www.youtube.com/watch?v=pb7ydpJq-D8) |
+
+
+| TECHarlas #3 - Supply chain, Docker Scout y seguridad en contenedores con Felipe Cruz de @DockerIo |  
+| ---------------------------------------------- | 
+| [![Docker Scout](https://img.youtube.com/vi/csNytM7XFz4/sddefault.jpg)](https://www.youtube.com/watch?v=csNytM7XFz4) | 
 
 
 # 👥 Governance
